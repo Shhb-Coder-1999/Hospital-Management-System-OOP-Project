@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Final_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/dell/Desktop/Final Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dell/Desktop/Final Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Final_Project">
+				<Option output="C:/Users/dell/Desktop/Final Project/cmake-build-debug/Final_Project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/Desktop/Final Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dell/Desktop/Final Project/."/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include/c++"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include/c++/mingw32"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include/c++/backward"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/../../../../include"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project"/>
+					<CompileFile command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Final_Project/fast">
+				<Option output="C:/Users/dell/Desktop/Final Project/cmake-build-debug/Final_Project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/Desktop/Final Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dell/Desktop/Final Project/."/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include/c++"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include/c++/mingw32"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include/c++/backward"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/../../../../include"/>
+					<Add directory="d:\programs files\codeblocks\mingw\bin\../lib/gcc/mingw32/4.7.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project/fast"/>
+					<CompileFile command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/dell/Desktop/Final Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/Desktop/Final Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Doctor.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Doctor.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Hospital.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Hospital.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Human.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Human.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Nurse.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Nurse.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Patient.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/Patient.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/main.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/Desktop/Final Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

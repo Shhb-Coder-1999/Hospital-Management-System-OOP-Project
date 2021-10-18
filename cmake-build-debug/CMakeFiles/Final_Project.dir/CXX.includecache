@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/Desktop/Final Project/Doctor.h
+Human.h
+C:/Users/dell/Desktop/Final Project/Human.h
+sstream
+-
+
+C:/Users/dell/Desktop/Final Project/Hospital.cpp
+iostream
+-
+Hospital.h
+C:/Users/dell/Desktop/Final Project/Hospital.h
+stdlib.h
+C:/Users/dell/Desktop/Final Project/stdlib.h
+fstream
+C:/Users/dell/Desktop/Final Project/fstream
+typeinfo
+-
+string
+-
+string
+-
+cctype
+-
+algorithm
+-
+Doctor.h
+C:/Users/dell/Desktop/Final Project/Doctor.h
+Nurse.h
+C:/Users/dell/Desktop/Final Project/Nurse.h
+Patient.h
+C:/Users/dell/Desktop/Final Project/Patient.h
+vector
+-
+
+C:/Users/dell/Desktop/Final Project/Hospital.h
+iostream
+-
+vector
+-
+Human.h
+C:/Users/dell/Desktop/Final Project/Human.h
+Doctor.h
+C:/Users/dell/Desktop/Final Project/Doctor.h
+Nurse.h
+C:/Users/dell/Desktop/Final Project/Nurse.h
+Patient.h
+C:/Users/dell/Desktop/Final Project/Patient.h
+
+C:/Users/dell/Desktop/Final Project/Human.h
+iostream
+C:/Users/dell/Desktop/Final Project/iostream
+vector
+-
+
+C:/Users/dell/Desktop/Final Project/Nurse.h
+Human.h
+C:/Users/dell/Desktop/Final Project/Human.h
+
+C:/Users/dell/Desktop/Final Project/Patient.h
+Human.h
+C:/Users/dell/Desktop/Final Project/Human.h
+vector
+-
+Patient.h
+C:/Users/dell/Desktop/Final Project/Patient.h
+Hospital.h
+C:/Users/dell/Desktop/Final Project/Hospital.h
+

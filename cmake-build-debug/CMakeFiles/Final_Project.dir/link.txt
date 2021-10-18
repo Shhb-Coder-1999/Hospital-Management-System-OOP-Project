@@ -1,0 +1,3 @@
+"D:\Programs files\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Final_Project.dir/objects.a
+"D:\Programs files\CodeBlocks\MinGW\bin\ar.exe" cr CMakeFiles\Final_Project.dir/objects.a @CMakeFiles\Final_Project.dir\objects1.rsp
+"D:\Programs files\CodeBlocks\MinGW\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\Final_Project.dir/objects.a -Wl,--no-whole-archive  -o Final_Project.exe -Wl,--out-implib,libFinal_Project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Final_Project.dir\linklibs.rsp
