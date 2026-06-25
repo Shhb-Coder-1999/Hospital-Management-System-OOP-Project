@@ -1,3 +1,0 @@
-C:/Users/dell/Desktop/Final Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/dell/Desktop/Final Project/cmake-build-debug/CMakeFiles/Final_Project.dir
-C:/Users/dell/Desktop/Final Project/cmake-build-debug/CMakeFiles/edit_cache.dir

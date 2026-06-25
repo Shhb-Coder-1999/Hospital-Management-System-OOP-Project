@@ -1,3 +1,40 @@
-# Hospital-Management-System-OOP-Project
+# Hospital Management System
 
-The main objective of the C++ Project on Hospital Management System is to manage the details of Nurses, Medicines,Hospitals, Patient, Appointments. It manages all the information about Nurses, Doctors, Appointments, Nurses. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Nurses, Medicines, Doctors, Hospitals. It tracks all the details about the Hospitals, Patient, Appointments.
+**[Uni · OOP & Advanced Programming · 2022]**
+
+A C++ console application for managing hospital staff and patients using object-oriented design principles — inheritance, polymorphism, and file-based persistence.
+
+## Class Hierarchy
+
+```
+Human (base)
+├── Doctor
+├── Nurse
+└── Patient
+```
+
+All entities share common attributes (name, ID, age) defined in `Human`. Subclasses extend with role-specific data: doctors have a specialty, nurses have a shift, patients have a diagnosis and assigned doctor.
+
+## Features
+
+- Add / remove / search doctors, nurses, and patients
+- Assign doctors to patients
+- File-based persistence — data saved across runs (plain text files in `Files/`)
+- Tabular display using the bundled `tabulate-master` library
+
+## Build
+
+Requires CMake 3.x and a C++17-compatible compiler.
+
+```bash
+mkdir build && cd build
+cmake ..
+cmake --build .
+./hospital_management
+```
+
+## Stack
+
+- C++17
+- CMake
+- [tabulate](https://github.com/p-ranav/tabulate) — terminal table formatting
